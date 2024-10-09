@@ -3,7 +3,7 @@
 I am not open to collaborations and/or commisions currently but I'd love feedback or ideas on what to do.
 
 ## About me
-I'm a scripter who loves finding methods in games, I have many awesome friends mainly Erwin, Rina, Daniel, Czech, Hyper, Martha.
+I'm a scripter who loves finding methods in games, I have many awesome friends mainly Erwin, Rina, Daniel, Czech, Hyper, Ashley.
 
 ## Skills
 I am able to program in C#, JavaScript, TypeScript, C, C++, Java, Lua, Luau, Rust, Golang, Kotlin
